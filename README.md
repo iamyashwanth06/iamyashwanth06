@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yashwant 
+- 👋 Hi, I’m Yashwanth
 - 👀 I’m interested in Anime and gaming 
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on web based projects 
